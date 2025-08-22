@@ -4,6 +4,30 @@
   ref: "30f4dcd"
   dir: "examples"
 
+- name: "plasma"
+  user: "dynamicslab"
+  repo: "sindy-addl-examples"
+  ref: "1374625"
+  dir: "examples"
+
+- name: "trapping"
+  user: "dynamicslab"
+  repo: "sindy-addl-examples"
+  ref: "eba3fdb"
+  dir: "examples"
+
+- name: "cavity-flow"
+  user: "dynamicslab"
+  repo: "sindy-addl-examples"
+  ref: "2640223"
+  dir: "examples"
+
+- name: "benchmarks"
+  user: "dynamicslab"
+  repo: "sindy-addl-examples"
+  ref: "30ed6b7"
+  dir: "examples"
+
 - name: "sindy_cp"
   user: "dynamicslab"
   repo: "sindy-addl-examples"
